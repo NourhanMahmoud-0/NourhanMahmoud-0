@@ -3,8 +3,7 @@
 <p><em>Frontend Developer
 </em></p>
 
-[![Linkedin: nourhan-mahmoud-223479195](https://img.shields.io/badge/-nourhansaeed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nourhan-mahmoud-223479195/)](https://www.linkedin.com/in/nourhan-mahmoud-223479195/)
-
+[![Linkedin: nourhan-mahmoud-](https://img.shields.io/badge/-NourhanMahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nourhan-mahmoud-)](https://www.linkedin.com/in/nourhan-mahmoud-)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
